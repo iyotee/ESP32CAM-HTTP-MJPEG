@@ -15,8 +15,8 @@
 #include "micro-rtsp.h"
 
 // === CONFIG WIFI ===
-const char *ssid = "SwissLabsBox2";
-const char *password = "JP3YMhAdx4rbvyru3S";
+const char *ssid = "VOTRE_SSID";
+const char *password = "VOTRE_MOT_DE_PASSE";
 
 // === CONFIG CAMERA ===
 #define CAMERA_MODEL_AI_THINKER
